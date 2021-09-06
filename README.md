@@ -5,3 +5,5 @@ The PiRelay 8 is a relay expansion board that can control up to 8 appliances/dev
 ## For more details on installation, Please visit below Link:
 
 ### <a href="https://learn.sb-components.co.uk/PiRelay-8" > https://learn.sb-components.co.uk/PiRelay-8 </a>
+
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/products/8chrelayboardforraspberrypi_900x.png">
